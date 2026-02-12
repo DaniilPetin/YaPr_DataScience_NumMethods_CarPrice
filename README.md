@@ -1,4 +1,7 @@
 # YaPr_DataScience_NumMethods_CarPrice
+
+**Основной стек инструментов: Python (pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, SHAP, Phik, Sweetviz, Category Encoders), Jupyter, CSV, машинное обучение (линейная регрессия, K-ближайших соседей, деревья решений, случайный лес, градиентный бустинг), оптимизация гиперпараметров (RandomizedSearchCV, GridSearchCV), метрики качества (MSE), корреляционный анализ, интерпретируемость моделей (SHAP), разведочный анализ данных (Sweetviz).**
+
 Проект по Численным методам в ML
 # Определение стоимости автомобилей
 
